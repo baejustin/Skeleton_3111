@@ -19,7 +19,7 @@ public class Main extends Application {
         appController.createArena();
     }
 
-    System.out.println("This is random change 1");
+    System.out.println("This is random change 1, hello");
     
     public static void main(String[] args) {
         launch(args);
